@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Iron Man",
+    "superpower": "Power Armor",
+    "humilityScore": 9
+  },
+  {
+    "name": "Batman",
+    "superpower": "Martial Arts",
+    "humilityScore": 8
+  },
+  {
+    "name": "Superman",
+    "superpower": "Flight",
+    "humilityScore": 5
+  }
+]
