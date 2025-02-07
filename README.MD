@@ -101,7 +101,7 @@ Tests include: <br />
 
 ## IMAGE PREVIEW
 
-![Superhero App Preview](./Superhero.png)
+![Superhero App Preview](https://github.com/cuteanbogdan/humble-superhero-api/blob/master/Superhero.PNG)
 
 ---
 
